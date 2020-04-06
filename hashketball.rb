@@ -11,4 +11,5 @@ def game
       :players => { }
     }
   }
+  game_hash
 end
