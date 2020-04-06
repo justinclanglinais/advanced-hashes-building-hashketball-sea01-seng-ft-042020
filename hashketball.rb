@@ -7,7 +7,7 @@ def game_hash
       :players => [ :player1 => {
         :player_name => "Alan Anderson" , :number => "0" , :shoe => "16" , :points => "22" , :rebounds => "12"
       }, 
-        :player2 , :player3 , :player4 , :player5 ]
+        :player2 => {} , :player3 => {}, :player4 => {}, :player5 => {} ]
     }, :away => {
       :team_name => "teamname",
       :colors => { },
