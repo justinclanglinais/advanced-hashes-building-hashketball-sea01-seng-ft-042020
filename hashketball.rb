@@ -4,7 +4,7 @@ def game_hash
     :home => {
       :team_name => "teamname",
       :colors => { },
-      :players => [ ]
+      :players => [ :player1 , ]
     }, :away => {
       :team_name => "teamname",
       :colors => { },
